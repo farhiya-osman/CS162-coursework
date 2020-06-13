@@ -1,0 +1,18 @@
+unique majors: 6304320
+Sorted ID numbers 
+199822007
+199922004
+199922006
+199922007
+200722013
+200822013
+200922015
+
+Sorted Last names: 
+C.J.
+Josh
+Leslie
+Olivia
+Sam
+Toby
+Walter
